@@ -1,0 +1,49 @@
+h1{
+
+    color: green;
+  }
+  p {
+    color: black;
+    
+  }
+    body{
+        background-color: aliceblue;
+        text-align: center;
+    }
+    
+    table,th,td{
+      border: 1px solid blue;
+      border-collapse: collapse;
+      text-align: center;
+      padding: 10px;
+    }
+    #bj2{
+      width: 100%;
+      background-color: aqua;
+    }
+    ul{
+      list-style-type: none;
+      width: 100%;
+      padding: 0%;
+      margin: 0%;
+      overflow: hidden;
+      background-color: black;
+    }
+    li{
+      float: left;
+    }
+    li a{
+      color: blue;
+      display: block;
+      padding: 15px;
+      text-align: center;
+      text-decoration: none;
+    }
+    li a:hover{
+      color: green;
+      background-color: white;
+    }
+    li a:active{
+      color: chocolate;
+      background-color: black;
+    }
